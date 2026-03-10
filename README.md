@@ -190,22 +190,22 @@ Student Supervisor — Campus Dining Services
 
 ## GitHub Stats
 
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna684&show_icons=true&theme=tokyonight)
+![Krishna's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=krishna684&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna684&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=krishna684&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=krishna684&theme=tokyonight)
 
 ---
 
-# Connect With Me
 
-GitHub  
-https://github.com/krishna684
+## Connect With Me
 
-LinkedIn  
-https://linkedin.com/in/krishnarithwikkarra
+[![GitHub](https://img.shields.io/badge/GitHub-krishna684-181717?style=for-the-badge&logo=github)](https://github.com/krishna684)
 
-Email  
-kkffz@missouri.edu
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna%20Karra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnarithwikkarra)
+
+[![Email](https://img.shields.io/badge/Email-kkffz%40missouri.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kkffz@missouri.edu)
 
 ---
 

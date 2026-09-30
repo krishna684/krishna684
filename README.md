@@ -142,9 +142,15 @@ Minor in Information Technology · Certificate in Web & Mobile Applications Deve
 
 ## 📊 GitHub Stats
 
-![Krishna's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=krishna684&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=krishna684&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=krishna684&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishna684&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna684&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=krishna684&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
 
 ---
 
